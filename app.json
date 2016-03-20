@@ -1,0 +1,8 @@
+{
+  "name": "OpenCV image composer",
+  "description": "Image composer based on OpenCV and Python",
+  "image": "heroku/python",
+  "repository": "https://github.com/roberto-alexis/opencvcomposer.git",
+  "keywords": ["python", "opencv" ],
+  "addons": [ "heroku-postgresql" ]
+}
